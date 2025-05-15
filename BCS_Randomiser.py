@@ -58,3 +58,4 @@ while count < decksize:
 cardlist.close()
 blacklist.close()
 herolist.close()
+input("Press Enter to close generator...")
