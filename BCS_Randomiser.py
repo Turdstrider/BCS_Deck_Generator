@@ -8,7 +8,7 @@ def find_sub_str_in_tuple(tup, word):
 
 """Function to go through the list of cards and blacklist any cards the selected hero cannot use"""
 def blacklist_by_hero(key):
-    herokeys = ("(Quin)","(Gwen)","(Obyn)","(Amel)","(Ador)","(ZeeJ)")
+    herokeys = ("(Quin)","(Gwen)","(Obyn)","(Amel)","(Ador)","(ZeeJ)","(Stri)")
     for line in cardlist:
         if line.find(key) == -1 and find_sub_str_in_tuple(herokeys, line):
             blacklist.write(line)
