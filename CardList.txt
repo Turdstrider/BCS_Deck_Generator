@@ -188,7 +188,7 @@ Bloontonium Leak
 Double Lead Bloon
 Lead Coating Bloon
 Missile Launcher
-Orders Recieved (Uniq)
+Orders Recieved (Stri)
 Shields Down!
 Frag Bomb Shooter
 Lead Casing
